@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## Explanation about the script  
-The script largely consists of four parts  
+The script largely consists of five parts  
   
 1.Downloading and unzipping datasets  
 2.Assigning datasets to respective variables  
